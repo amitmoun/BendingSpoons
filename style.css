@@ -154,4 +154,9 @@ transition:all var(--speed) ease-in-out;
 
 .split.right .btn {
   animation: flicker 3s ease-in-out infinite;
+
+}
+/* space between headline & tag-line */
+h1 {
+    margin-bottom: 0.6rem;   /* ≈ 2 mm gap */
 }
